@@ -1,7 +1,4 @@
 language: java
 
-jdk:
-    -1.8.0.141
-
 script:
     -ant test
