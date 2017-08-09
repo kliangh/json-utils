@@ -32,6 +32,7 @@ import static org.junit.Assert.*;
  */
 public class JsonUtilsTest {
 
+    JsonUtils jsonUtils = new JsonUtils();
     Map<Object, Object> testJson;
 
     @Before

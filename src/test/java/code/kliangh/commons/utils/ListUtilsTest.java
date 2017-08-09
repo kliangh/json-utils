@@ -14,6 +14,7 @@ public class ListUtilsTest {
 
     @Before
     public void setUp() throws Exception {
+        ListUtils listUtils = new ListUtils();
         testList.add(new TestObject());
     }
 
